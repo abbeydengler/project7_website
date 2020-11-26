@@ -10,7 +10,7 @@ paginate = 5
 
 [params]
 title = "Abbey Dengler"
-description = "Masters in Applied Statistics"
+description = "Masters in Applied Statistics YAY"
 # gravatar = "soho@example.com"
 images = ["images/headshot.png"]
 profilePicture = "images/headshot.png"
